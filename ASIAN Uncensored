@@ -1,4 +1,25 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://livecdnh1.tvanywhere.ae:80/hls/baby/index.m3u8
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://ebsonair.ebs.co.kr:1935/ebsutablet500k/tablet500k/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOhI3AVCiMYw2ODMpnU6DFpCs1pn0eG-IBlmAww9BYlW-g08JWag
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://main-vod-edge-1.iptvserver.tv/vodcached/_definst_/mp4:origin3/
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+https://akcdn.detik.net.id/community/media/visual/2017/07/17/1c52c2f1-cd5b-4912-91c9-da935eb9a70b.jpg?w=700&q=90
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://main-vod-edge-2.iptvserver.tv/vodcached/_definst_/mp4:origin3/
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://202.80.222.171/000001/2/ch14041511532707866226/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://202.80.222.182/000001/2/ch14041511111714365733/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
+http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
+#EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
 #EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 1
 https://videojccdn.wzj9.com:8091/20210516/mmb00192/1000kb/hls/index.m3u8
 #EXTINF:-1 tvg-logo="http://djcm88.com/images/pc/part2-person.png" group-title="ASIAN Uncensored",ASIAN 2
